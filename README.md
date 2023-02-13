@@ -1,2 +1,2 @@
-# lgistic regression mini project
+# Logistic Regression mini project
  
